@@ -65,12 +65,12 @@ class _MyHomePageState extends State<MyHomePage> {
                           text: 'Guest',
                           style: TextStyle(
                             fontFamily: 'Nunito',
-                            color: Color.fromARGB(255, 255, 154, 3),
+                            color: Color.fromARGB(255, 255, 171, 3),
                             fontWeight: FontWeight.w900,
                             fontSize: 20,
                             shadows: [
                               Shadow(
-                                color: Color.fromARGB(255, 155, 155, 155),
+                                color: Color.fromARGB(255, 174, 173, 173),
                                 offset: Offset(2, 2),
                                 blurRadius: 3,
                               ),
