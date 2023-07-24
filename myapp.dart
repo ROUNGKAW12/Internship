@@ -10,11 +10,11 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
-        colorScheme:
-            ColorScheme.fromSeed(seedColor: Color.fromARGB(255, 255, 98, 98)),
+        colorScheme: ColorScheme.fromSeed(
+            seedColor: const Color.fromARGB(255, 235, 174, 174)),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Frame App'),
+      home: const MyHomePage(title: ':3 Frame App'),
     );
   }
 }
